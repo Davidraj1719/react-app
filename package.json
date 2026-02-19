@@ -2,7 +2,7 @@
   "name": "batch1",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://davidraj1719.github.io/react-app",
+  "homepage":"https://davidraj1719.github.io/react-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
     "@tailwindcss/postcss": "^4.1.18",
