@@ -7,11 +7,11 @@ import { Link } from "react-router-dom";
 export const Home = () => {
     return (
        <>
-       <Link to={'/component1'} className="text-blue-500 hover:underline">Go to Component 1</Link>
+       <Link to={'/component1'} className="text-blue-500 hover:underline">Home</Link>
        <br />
-       <Link to={'/component2'} className="text-blue-500 hover:underline">Go to Component 2</Link>
+       <Link to={'/component2'} className="text-blue-500 hover:underline">Products</Link>
        <br />
-       <Link to={'/component3'} className="text-blue-500 hover:underline">Go to Component 3</Link>
+       <Link to={'/component3'} className="text-blue-500 hover:underline">Orders</Link>
        <br />
        {/* <Dashboard /> */}
        {/* <Component1 />
